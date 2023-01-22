@@ -91,11 +91,10 @@ class ViewController: UIViewController {
     }
     @IBAction func twoTap(_ sender: Any) {
         addToWorkings(value: "2")
-
     }
     @IBAction func threeTap(_ sender: Any) {
+        
         addToWorkings(value: "3")
-
     }
     @IBAction func fourTap(_ sender: Any) {
         addToWorkings(value: "4")
